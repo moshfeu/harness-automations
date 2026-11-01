@@ -1,0 +1,7 @@
+{
+  "name": "harness-automations",
+  "description": "Out-of-session watchers: a cheap launchd check, then one Claude run when the condition is met.",
+  "version": "0.1.0",
+  "author": { "name": "moshfeu" },
+  "repository": "https://github.com/moshfeu/harness-automations"
+}

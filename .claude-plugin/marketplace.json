@@ -1,0 +1,7 @@
+{
+  "name": "harness-automations",
+  "owner": { "name": "moshfeu" },
+  "plugins": [
+    { "name": "harness-automations", "source": "./", "description": "Out-of-session watchers (macOS, launchd)." }
+  ]
+}
